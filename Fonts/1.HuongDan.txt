@@ -1,0 +1,17 @@
+https://huyhoa.net/font-vni-full/
+
+Download mien phi font tieng Viet,cac chuong trinh tien ich
+
+Cai dat font:
+
+Cach 1: Cai cac file font (.ttf) vao Windows :
+Vao Control Panel/Fonts/File/Install New Font
+Chi dinh duong dan chua Font, chon Select All/OK
+(Neu muon Cai dat het Font trong mot Thu muc)
+
+Cach 2: Copy tat ca file font vao thu muc: C://Window/Fonts
+
+
+Cach 3 (Cach nay chi co tac dung tren Win Vista + Windows 7, Windows 8, Windows 10, Windows 11):
+Vao thu muc chua font chu ban vua download ve, sau do click Ctrl + A de chon 
+tat ca cac font co trong thu muc do. Nhan chuot phai, chon Install
